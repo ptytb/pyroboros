@@ -1,0 +1,4 @@
+﻿{
+    "toolchain" : "latexmk",
+    "root": "Pyroboros.tex"
+}
